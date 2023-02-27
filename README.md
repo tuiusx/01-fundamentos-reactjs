@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Vite / React.js
 - Phosphor Icons
+- Date-fns
 
 ## 💻 Projeto
 
